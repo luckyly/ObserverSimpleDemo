@@ -1,2 +1,3 @@
 # ObserverSimpleDemo
-basic  observer  
+一个非常简单的观察者模式实例。非官方Observable及Observer，纯手工。
+当MeteorologySubject更新时，通知BJTVObsever和HNTVObserver同步更新。
